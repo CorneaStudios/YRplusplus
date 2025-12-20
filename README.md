@@ -1,4 +1,4 @@
-The R++ programming language is changing its name to YR++ from 19.12.2025 and continue the versions of R++ #4 but under name YR++ #4 etc.
+The YR++ programming language is changing its name to YR++ from 19.12.2025 and continue the versions of R++ #4 but under name YR++ #4 etc.
 
 ### 0.4.3
 version: YR++ #4
